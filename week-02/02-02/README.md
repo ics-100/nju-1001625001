@@ -1,5 +1,13 @@
-# 2. 模运算系统和补码表示（17分钟）
+# 2. 模运算系统和补码表示
 
 |本期版本|上期版本
 |:---:|:---:
-`Mon Jan 29 17:22:33 CST 2024` | -
+`Thu Feb  1 20:38:36 CST 2024` | -
+
+<img src="./01.jpg" />
+<img src="./02.jpg" />
+<img src="./03.jpg" />
+
+## Ref
+
+* [补码与模运算 - 琴酒苏打水的博客 | Gin&Soda Blog](https://ginsoda.github.io/computer_science/2021/03/23/two's-complement/)
